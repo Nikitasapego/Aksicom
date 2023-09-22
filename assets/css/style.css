@@ -1342,14 +1342,6 @@ body.lock {
 }
 
 .nav__list {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
     margin: 0 calc(5px + 15 * (100vw - 320px) / 1600) 0 0;
     transition: -webkit-transform 0.3s ease;
     transition: transform 0.3s ease;
