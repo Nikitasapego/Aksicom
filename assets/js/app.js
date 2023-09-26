@@ -1,1 +1,0 @@
-console.log("file 1"),new Swiper(".price-slider",{pagination:{el:".swiper-pagination",clickable:!0},keyboard:{enabled:!0,onlyInViewport:!0},slidesPerView:4,freeMode:!1,keyboard:{enabled:!0},breakpoints:{320:{slidesPerView:1},575:{slidesPerView:2},768:{slidesPerView:3},991:{slidesPerView:4}}});
